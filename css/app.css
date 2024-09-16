@@ -32,3 +32,15 @@ nav{
 #underline{
     background-color: rgb(251, 255, 0);
 }
+thead{
+    background-color: rgb(89, 89, 252);
+}
+tbody{
+    background-color: rgb(15, 196, 196);
+}
+#white{
+    background-color: aliceblue;
+}
+table{
+    border-collapse: collapse;
+}
