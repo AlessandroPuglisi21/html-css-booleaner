@@ -13,7 +13,7 @@ nav{
     font-size:56px;
     margin-bottom: 0%;
 }
-p{
+#autore{
     margin-top: 0%;
     margin-bottom: 0%;
     color: grey;
@@ -21,4 +21,10 @@ p{
 }
 .booleaner{
     color: rgb(9, 128, 240);
+}
+#credits{
+    color: black;
+    font-size: 14px;
+    margin-top: 0%;
+    margin-bottom: 0%;
 }
