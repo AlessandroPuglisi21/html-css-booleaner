@@ -9,3 +9,16 @@ nav{
     height:200px;
     width:200px ;
 }
+.maintitle{
+    font-size:56px;
+    margin-bottom: 0%;
+}
+p{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    color: grey;
+    font-size: 18px;
+}
+.booleaner{
+    color: rgb(9, 128, 240);
+}
